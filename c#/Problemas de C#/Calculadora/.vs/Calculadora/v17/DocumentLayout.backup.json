@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6C478B-D6C4-44D7-B8EF-E6A3DC1A7E46}|Calculadora\\Calculadora.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6C478B-D6C4-44D7-B8EF-E6A3DC1A7E46}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:25:10.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

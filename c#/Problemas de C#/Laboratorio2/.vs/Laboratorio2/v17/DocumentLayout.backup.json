@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12D1938-F3EF-4C89-A3EE-FC306AD7405A}|Laboratorio21\\Laboratorio21.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio2\\laboratorio21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12D1938-F3EF-4C89-A3EE-FC306AD7405A}|Laboratorio21\\Laboratorio21.csproj|solutionrelative:laboratorio21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001AB464-B7AB-4783-B6F3-534D3FA555BC}|Laboratorio2\\Laboratorio2.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio2\\laboratorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001AB464-B7AB-4783-B6F3-534D3FA555BC}|Laboratorio2\\Laboratorio2.csproj|solutionrelative:laboratorio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio2\\Laboratorio2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio2\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio2\\Laboratorio2\\Program.cs",
+              "RelativeToolTip": "Laboratorio2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:18:18.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio2\\Laboratorio21\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio21\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio2\\Laboratorio21\\Program.cs",
+              "RelativeToolTip": "Laboratorio21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:22:34.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

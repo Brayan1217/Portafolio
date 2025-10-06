@@ -1,0 +1,70 @@
+# =====================
+# Java
+# =====================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle
+target/
+build/
+out/
+bin/
+.gradle/
+.settings/
+.idea/
+*.iml
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+.nb-gradle/
+
+# VSCode
+.vscode/
+
+# =====================
+# JasperReports
+# =====================
+*.jasper
+
+# =====================
+# C#
+# =====================
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db

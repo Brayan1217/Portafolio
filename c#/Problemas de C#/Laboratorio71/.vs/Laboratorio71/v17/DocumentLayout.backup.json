@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4CF902-6E86-47F6-8EAC-DC4B1B664047}|Laboratorio72\\Laboratorio72.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio71\\laboratorio72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4CF902-6E86-47F6-8EAC-DC4B1B664047}|Laboratorio72\\Laboratorio72.csproj|solutionrelative:laboratorio72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4CF902-6E86-47F6-8EAC-DC4B1B664047}|Laboratorio72\\Laboratorio72.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio71\\laboratorio72\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4CF902-6E86-47F6-8EAC-DC4B1B664047}|Laboratorio72\\Laboratorio72.csproj|solutionrelative:laboratorio72\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4CF902-6E86-47F6-8EAC-DC4B1B664047}|Laboratorio72\\Laboratorio72.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio71\\laboratorio72\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4CF902-6E86-47F6-8EAC-DC4B1B664047}|Laboratorio72\\Laboratorio72.csproj|solutionrelative:laboratorio72\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\Laboratorio72\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio72\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\Laboratorio72\\Program.cs",
+              "RelativeToolTip": "Laboratorio72\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:13:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JuegoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\Laboratorio72\\JuegoDeDados.cs",
+              "RelativeDocumentMoniker": "Laboratorio72\\JuegoDeDados.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\Laboratorio72\\JuegoDeDados.cs",
+              "RelativeToolTip": "Laboratorio72\\JuegoDeDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:20:28.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\Laboratorio72\\Dado.cs",
+              "RelativeDocumentMoniker": "Laboratorio72\\Dado.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio71\\Laboratorio72\\Dado.cs",
+              "RelativeToolTip": "Laboratorio72\\Dado.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:16:05.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

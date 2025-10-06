@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C927834-2548-494B-8886-C97E2FF63C5B}|Laboratorio64\\Laboratorio64.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio6\\laboratorio64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C927834-2548-494B-8886-C97E2FF63C5B}|Laboratorio64\\Laboratorio64.csproj|solutionrelative:laboratorio64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F6C1E4-ED6B-46D6-AC4A-C656A6AABFC5}|Laboratorio63\\Laboratorio63.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio6\\laboratorio63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F6C1E4-ED6B-46D6-AC4A-C656A6AABFC5}|Laboratorio63\\Laboratorio63.csproj|solutionrelative:laboratorio63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BA1993-EBCB-436D-927B-B9C745CF9C37}|Laboratorio62\\Laboratorio62.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio6\\laboratorio62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BA1993-EBCB-436D-927B-B9C745CF9C37}|Laboratorio62\\Laboratorio62.csproj|solutionrelative:laboratorio62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956A2BA4-93FA-4F8F-9ED9-E320ABA17F4B}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio6\\laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956A2BA4-93FA-4F8F-9ED9-E320ABA17F4B}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio64\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio64\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio64\\Program.cs",
+              "RelativeToolTip": "Laboratorio64\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:28:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio63\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio63\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio63\\Program.cs",
+              "RelativeToolTip": "Laboratorio63\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:23:32.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio62\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio62\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio62\\Program.cs",
+              "RelativeToolTip": "Laboratorio62\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:17:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio6\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio6\\Laboratorio6\\Program.cs",
+              "RelativeToolTip": "Laboratorio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:05:03.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

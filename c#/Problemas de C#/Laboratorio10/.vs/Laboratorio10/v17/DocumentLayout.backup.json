@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A79461-45E3-4A09-BF77-6CA8D4918004}|Laboratorio104\\Laboratorio104.vbproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio10\\laboratorio104\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D8A79461-45E3-4A09-BF77-6CA8D4918004}|Laboratorio104\\Laboratorio104.vbproj|solutionrelative:laboratorio104\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A79461-45E3-4A09-BF77-6CA8D4918004}|Laboratorio104\\Laboratorio104.vbproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio10\\laboratorio104\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D8A79461-45E3-4A09-BF77-6CA8D4918004}|Laboratorio104\\Laboratorio104.vbproj|solutionrelative:laboratorio104\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA25528D-D810-49C1-9B1B-79CCDE7A3548}|Laboratorio103\\Laboratorio103.vbproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio10\\laboratorio103\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BA25528D-D810-49C1-9B1B-79CCDE7A3548}|Laboratorio103\\Laboratorio103.vbproj|solutionrelative:laboratorio103\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0E627F-B8E9-41F5-A8D7-12A1E8915F9A}|Laboratorio102\\Laboratorio102.vbproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio10\\laboratorio102\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD0E627F-B8E9-41F5-A8D7-12A1E8915F9A}|Laboratorio102\\Laboratorio102.vbproj|solutionrelative:laboratorio102\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C79744-4FEA-461F-AC8C-C3D6877962E1}|Laboratorio10\\Laboratorio10.vbproj|c:\\users\\braya\\source\\repos\\ds4\\laboratorios\\laboratorio10\\laboratorio10\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B4C79744-4FEA-461F-AC8C-C3D6877962E1}|Laboratorio10\\Laboratorio10.vbproj|solutionrelative:laboratorio10\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perro.vb",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio104\\Perro.vb",
+              "RelativeDocumentMoniker": "Laboratorio104\\Perro.vb",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio104\\Perro.vb*",
+              "RelativeToolTip": "Laboratorio104\\Perro.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T15:47:35.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio104\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio104\\Program.vb",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio104\\Program.vb",
+              "RelativeToolTip": "Laboratorio104\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T15:39:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio103\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio103\\Program.vb",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio103\\Program.vb",
+              "RelativeToolTip": "Laboratorio103\\Program.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T15:32:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio102\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio102\\Program.vb",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio102\\Program.vb",
+              "RelativeToolTip": "Laboratorio102\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T15:28:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio10\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio10\\Program.vb",
+              "ToolTip": "C:\\Users\\braya\\Source\\Repos\\DS4\\Laboratorios\\Laboratorio10\\Laboratorio10\\Program.vb",
+              "RelativeToolTip": "Laboratorio10\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T15:25:29.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
